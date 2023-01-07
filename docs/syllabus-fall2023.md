@@ -39,7 +39,7 @@ There is no required text for this course. As we move thorough the semester, cou
 - [GitHub](https://github.com/) account. I recommend that you sign up for the [GitHub Student Developer Pack](https://education.github.com/pack). There are lots of free benefits for students. 
 
 ### 📢 Course Communication:
-Our main communication channel will be [GitHub Discussions](https://github.com/orgs/GPGN-268/discussions). There, you will find a private forum that is only available for your, your instructors, and classmates. That is _your_ space for asking questions, discussing with your peers, exchanging resources, and keeping up to date with course announcements. 
+Our main communication channel will be [GitHub Discussions](https://github.com/orgs/GPGN-268/discussions). There, you will find a private forum that is only available for you, your instructors, and classmates. That is _your_ space for asking questions, discussing with your peers, exchanging resources, and keeping up to date with course announcements. 
 - If you have a question, please search for it first on the GitHub discussion board. If you can't find the answer there, I encourage you to post it using the Q&A category – if you feel comfortable doing so.  This allows your peers (who likely have similar questions) to upvote your question, or to provide their own input.
 
 You should not hesitate to seek help, and can do this in the following ways:
