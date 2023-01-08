@@ -1,6 +1,6 @@
 # ☑️ Onboarding Checklist
 
-📅 **Due date**: Thursday, January 12 @ 9:30 AM
+📥 **Due date**: Thursday, January 12 @ 9:30 AM
 
 - [ ] Complete the pre-course survey on [Canvas](https://elearning.mines.edu/courses/47620/quizzes/66767).  
 - [ ] Create an account on  [GitHub](https://github.com/) using your Mines email
