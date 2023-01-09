@@ -11,7 +11,7 @@
 **Bia's Office Location**: GC 255  
 **Bia's Office Hours**: TBD  
 
-**Teaching Assistant**: Seunghoo Kim  
+**Teaching Assistant**: Seunghoo Kim (she/them)
 **GitHub Handle**: @SeunghooKim  
 **Email**: [seunghookim@mines.edu](mailto:seunghookim@mines.edu)    
 **Office Hours**: TBD  
