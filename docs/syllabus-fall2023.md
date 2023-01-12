@@ -14,7 +14,8 @@
 **Teaching Assistant**: Seunghoo Kim (she/them)  
 **GitHub Handle**: @SeunghooKim  
 **Email**: [seunghookim@mines.edu](mailto:seunghookim@mines.edu)    
-**Office Hours**: TBD  
+**Office Hours**: Mon 3-4pm, Wed 10-11am, Fri as needed on Zoom
+**Office Hours Location**: Geophysics reading room
 
 ### 🌎 Welcome to **Geophysical Data Analysis**! 
 This course focuses on open-ended problem-solving that requires combining teamwork and communication skills with modern computational tools to solve geophysical problems. You will learn best practices of scientific computing which will provide you with a solid foundation for tackling practical data analysis problems in all areas of academia, industry, and government. We will work on applied problems that emphasize data acquisition and processing based on knowing what new information is necessary to solve a problem and where to find the information efficiently.  At the conclusion of the course, you will be able to
