@@ -14,7 +14,7 @@
 **Teaching Assistant**: Seunghoo Kim (she/them)  
 **GitHub Handle**: @SeunghooKim  
 **Email**: [seunghookim@mines.edu](mailto:seunghookim@mines.edu)    
-**Office Hours**: Mon 3-4pm, Wed 10-11am, Fri as needed on Zoom
+**Office Hours**: Mon 3-4pm, Wed 10-11am, Fri as needed on Zoom  
 **Office Hours Location**: Geophysics reading room
 
 ### 🌎 Welcome to **Geophysical Data Analysis**! 
