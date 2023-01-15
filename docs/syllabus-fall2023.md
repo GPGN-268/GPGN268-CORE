@@ -9,7 +9,7 @@
 **Credit Hours**: 3.0  
 **Class Web Site**: https://github.com/GPGN-268  
 **Bia's Office Location**: GC 255  
-**Bia's Office Hours**: TBD  
+**Bia's Office Hours**: Tue 11am-noon or [by appointment](https://outlook.office.com/bookwithme/user/12dfdf8a370d4da38883619eb1ea9ff0@mines.edu/meetingtype/vVN_CGb6SES1g6k53wy79A2?anonymous)  
 
 **Teaching Assistant**: Seunghoo Kim (she/them)  
 **GitHub Handle**: @SeunghooKim  
