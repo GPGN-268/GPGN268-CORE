@@ -63,8 +63,8 @@ Now let’s learn the command that will let us see the contents of our own files
 
 ```
 $ ls
-Applications   Documents    Library    Music  Public
-Desktop          Downloads    Movies   Pictures
+Applications		Documents		Library			Music			Public
+Desktop			Downloads		Movies			Pictures		note-template.md
 ```
 
 (Again, your results may be slightly different depending on your operating system and how you have customized your filesystem.)
@@ -74,9 +74,9 @@ Desktop          Downloads    Movies   Pictures
 ```
 $ ls -F
 Applications/		Library/		Public/
-Desktop/		        Movies/		note-template.md
-Documents/		    Music/
-Downloads/		    Pictures/
+Desktop/		Movies/			note-template.md
+Documents/		Music/
+Downloads/		Pictures/
 ```
 
 `ls` has lots of other options. To find out what they are, we can type:
@@ -91,9 +91,8 @@ $ ls --help
 Not only can we use `ls` on the current working directory, but we can use it to list the contents of a different directory. Let’s take a look at our `Desktop` directory by running `ls -F Desktop`, i.e., the command `ls` with the `-F` **option** and the **argument**  `Desktop`. The argument `Desktop` tells `ls` that we want a listing of something other than our current working directory:
 
 ```
-$ ls Desktop
-attendance-20230109.csv seismo-files
-inbox well-log-data
+$ ls -F Desktop
+well-log-data/
 ```
 
 Your output should be a list of all the files and sub-directories in your Desktop directory. On many systems, the command line Desktop directory is the same as your GUI Desktop. Take a look at your Desktop to confirm that your output is accurate.
@@ -147,7 +146,7 @@ $ pwd
 The special directory `..` doesn’t usually show up when we run `ls`. If we want to display it, we can add the `-a` option to `ls -F`:
 
 ```
-$ ls -F -a
+$ ls -F -a logging-resources
 ./  ../  logging_data_figure.pdf   logging_methods.pdf
 ```
 
