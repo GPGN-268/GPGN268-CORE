@@ -20,7 +20,7 @@ $ jupyter lab
 
 In Jupyter Lab, using the directory tree on the left,  navigate to the directory `notebooks` and open a new notebook. Rename your notebook to `ds00-meteo-denver.ipynb`. Edit your notebook such that the header looks like this:
 
-![[jupyter-header.png]]
+![](figures/jupyter-header.png)
 
 For each task below, create a Markdown Cell with the title of the task before start working on your code
 
