@@ -4,6 +4,8 @@
 
 For this data Story you will look at well-logging data from the [International Ocean Discovery Program](https://www.iodp.org/). You already have some data from two expeditions in your `ds01-well-log` folder, but you're welcome to explore other datasets [here](https://mlp.ldeo.columbia.edu/logdb/) if you'd like. We will be primarily working with data from expedition **372A** hole **U1517A**. 
 
+You may discuss this assignment with your peers, but everyone should submit their assignment individually. If there is anyone who has *signficantly* contrbuted to your work, helped you figure something important out, etc., list them as a collaborator below with a short description of their input. **Collaborating will not impact your grade**. Please be honest.
+
 Your ultimate goal will be to reproduce and analyze the summary plot below. You know how to plot, but you might not know everything you need to reproduce this plot just yet. That is OK! Figuring out how to do things in your own is one of the learning outcome of this course. If you fell stuck, here are a few options:
 
 - Research! Read the matplotlib documentation, google "matplotlib + what you're trying to do", etc.
@@ -32,7 +34,10 @@ $ jupyter lab
 # GPGN268 - Geophysical Data Analysis
 ## Data Story 01 - Well Logging
 
-**Student:** Blaster the Burro  
+**Student:** Blaster the Burro 
+**Collaborators:**
+- Yoda helped me figure out how to use the force
+- Obi-Wan provided input on my code to plot resistivity
 **Date:** May the 4th, 2078
 ```
 
