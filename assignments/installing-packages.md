@@ -24,7 +24,7 @@ $ conda install -c conda-forge matplotlib
 
 #### Installing [ipympl](https://matplotlib.org/ipympl/)
 ```
-conda install -c conda-forge ipympl
+$ conda install -c conda-forge ipympl
 ```
 
 ##### Installing [cartopy](https://scitools.org.uk/cartopy/docs/latest/)
