@@ -32,7 +32,6 @@ $ conda install -c conda-forge ipympl
 $ conda install -c conda-forge cartopy
 ```
 
-
 ##### Installing [pandas](https://pandas.pydata.org/)
 ```
 $ conda install -c conda-forge pandas
@@ -43,3 +42,7 @@ $ conda install -c conda-forge pandas
 $ conda install -c conda-forge xarray
 ```
 
+##### Installing the `nc-time-axis` extension
+```
+$ conda install -c conda-forge nc-time-axis
+```
