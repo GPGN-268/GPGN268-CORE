@@ -24,7 +24,7 @@ Whatever you choose, you should _clearly define a hypothesis or scientific ques
 
 ####  General Requirements
 
-- The results of your analysis will be figures. **Beautiful** figures which clearly provide answers to your question / hypothesis. Your main notebook should contain at least 4 and no more than 8 figures. All figures must have titles, clearly labeled axes, informative colormaps / colorbars, multiple panels, and legends, when appropriate. 
+- The results of your analysis will be figures. **Beautiful** figures which clearly provide answers to your question / hypothesis. Your main notebook should contain at least 4 and no more than 8 figures. All figures must have titles, clearly labeled axes, [informative colormaps](https://jakevdp.github.io/blog/2014/10/16/how-bad-is-your-colormap/) / colorbars, multiple panels, and legends, when appropriate. 
 - All your code must be well-documented with comments and functions when appropriate.  I expect you to use expressive variable names and proper formatting. 
 
 #### Specific requirements
@@ -54,6 +54,20 @@ A final project repository with a remote hosted on GitHub. The repository should
 -  All group members are expected to contribute to the presentation.
 -   Format is flexible: can be slides (not necessary), scrolling through notebook(s), scrolling through markdown files
 	-   If using slides, please save them as a pdf and push the slides to your final project repo. 
+-   Please consider the following points when preparing your presentation:
+	- Introduce the topic of your project and your group's motivation to choose this particular topic.
+	- State your research question (what you aimed to achieve) and explain why it is important.
+   	- Describe your dataset and explain the methods that you used to collect data, including the type of data collected, how you collected it, and any challenges you encountered during the process.
+	- Describe how you analyzed your data and what tools and techniques you used to do so.
+	- Present your findings in a clear and concise manner, using figures where appropriate.
+	- Discuss the implications of your findings and how they relate to your original question/hypothesis.
+	- Go over any limitations or weaknesses in your approach.
+	- Summarize your main findings and their significance.
+ 	- Suggest areas for future research that could build on your findings.
+	- Acknowledgments: Thank those who have supported your group project if applicable (any peers, friends, mentors, other faculty, etc.)
+	- Keep your presentation under 10 min so there is planty time for questions from the audience.
+	- **Have fun!** This is your opportunity to showcase all the hard work you have put into your research project.
+
 -   There will be time for Q&A/discussion and feedback after each presentation    
 -   I expect active engagement from the entire class. Part of your final project grade is based on participation asking questions and providing feedback to the other groups.
 -   A couple of days before our project presentation session, please enable read access on your repo, so others in the class can see your great work, and learn from what you’ve done!
