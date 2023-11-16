@@ -226,4 +226,4 @@ Typing the full path to directories and files can be slow and annoying. Fortunat
 -   Most commands take options (flags) which begin with a ‘-‘.
 
 
-*These notes combine material from the [Earth and Environmental Data Sciences Book](https://earth-env-data-science.github.io/LICENSE.html), [Software Carpentry Lessons](https://software-carpentry.org/lessons/), and the [Earth Data Lab](https://www.earthdatascience.org) courses, all licensed under the [Creative Commons Attribution-ShareAlike](https://creativecommons.org/licenses/by-sa/4.0/) license. All contents Tin these organization are under the same license.* 
+*These notes combine material from the [Earth and Environmental Data Sciences Book](https://earth-env-data-science.github.io/LICENSE.html), [Software Carpentry Lessons](https://software-carpentry.org/lessons/), and the [Earth Data Lab](https://www.earthdatascience.org) courses, all licensed under the [Creative Commons Attribution-ShareAlike](https://creativecommons.org/licenses/by-sa/4.0/) license. All contents in this organization are under the same license.* 
