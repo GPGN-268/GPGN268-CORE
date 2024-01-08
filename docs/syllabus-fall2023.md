@@ -28,7 +28,7 @@ This course focuses on open-ended problem-solving that requires combining teamwo
 -   Practice reproducible research through version control, documentation, and metadata aggregation.
 
 ### 📆 Course Schedule:
-You may find the course schedule [here](https://github.com/GPGN-268). Please keep in mind that this is a tentative schedule, and I anticipate changing it as we move through the material – monitor the course GitHub page for current topics and deadlines.
+You may find the course schedule [here](https://github.com/GPGN-268/.github/tree/main/profile). Please keep in mind that this is a tentative schedule, and I anticipate changing it as we move through the material – monitor the course GitHub page for current topics and deadlines.
 
 ### 📚 Course Material
 There is no required text for this course. As we move thorough the semester, course material and external resources will be made available on [GPGN268-CORE](https://github.com/GPGN-268/GPGN268-CORE)
