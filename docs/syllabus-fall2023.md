@@ -11,11 +11,11 @@
 **Bia's Office Location**: GC 255  
 **Bia's Office Hours**: Tue 11am-noon or [by appointment](https://outlook.office.com/bookwithme/user/12dfdf8a370d4da38883619eb1ea9ff0@mines.edu/meetingtype/vVN_CGb6SES1g6k53wy79A2?anonymous)  
 
-**Teaching Assistant**: Seunghoo Kim (she/them)  
-**GitHub Handle**: @SeunghooKim  
-**Email**: [seunghookim@mines.edu](mailto:seunghookim@mines.edu)    
-**Office Hours**: Mon 3-4pm, Wed 10-11am, Fri as needed on Zoom  
-**Office Hours Location**: Geophysics reading room
+**Teaching Assistant**: name + (pronouns)  
+**GitHub Handle**:  
+**Email**:      
+**Office Hours**: TBD   
+**Office Hours Location**: TBD  
 
 ### 🌎 Welcome to **Geophysical Data Analysis**! 
 This course focuses on open-ended problem-solving that requires combining teamwork and communication skills with modern computational tools to solve geophysical problems. You will learn best practices of scientific computing which will provide you with a solid foundation for tackling practical data analysis problems in all areas of academia, industry, and government. We will work on applied problems that emphasize data acquisition and processing based on knowing what new information is necessary to solve a problem and where to find the information efficiently.  At the conclusion of the course, you will be able to
@@ -80,23 +80,38 @@ The numeric-to-letter grade scale is shown below:
 ### ⏰ Late work
 There are many items in this class that need to be handed in. In order to keep everything on schedule, I would like you to be sure to hand in assignments on time. If you anticipate difficulty completing an assignment on time, please contact me as early as possible to make arrangements. You will have a grace period of 24h after the due date to submit your work with a 10% penalization.  My goal is that you succeed in this class, so If you're struggling to complete your assignments in time, please come talk to me. 
 
+##  Campus Policies and Resources
 
-### The COVID Smart Classroom:
-As new variants of COVID-19 continue to evolve, all campus community members are asked to make thoughtful choices about their health and be mindful that those choices will affect our whole community.
-- Anyone experiencing COVID-19 symptoms should wear a mask, not report to work or attend classes, and get tested as soon as possible.
-- Anyone experiencing respiratory symptoms—even after a negative COVID test—should remember there are many respiratory viruses circulating in our community. Please be considerate of others and wear a mask whenever you have any cold-like symptoms.
-- Masking is one of the most effective ways to protect yourself and others, especially in indoor settings when community transmission levels are high. Please continue to respect an individual’s decision to wear a mask even if it is not required. Masks are still required in the Student Health Center.
-- Wash your hands frequently using soap and water or hand sanitizer.
-##### If you test positive for COVID-19 (rapid antigen or PCR test):
-- **Stay home for a minimum of five (5) days** and isolate yourself from others at home [as directed by the CDC](https://www.cdc.gov/coronavirus/2019-ncov/your-health/isolation.html?CDC_AA_refVal=https%3A%2F%2Fwww.cdc.gov%2Fcoronavirus%2F2019-ncov%2Fyour-health%2Fquarantine-isolation.html).
-- **Communicate with your professors via email or the excused absence form** that you are ill or have tested positive for COVID-19. You should communicate this 5 day absenteeism to your faculty OR through the Student Life Excused Absence Process. Students can complete the Excused Absence [here](https://www.mines.edu/student-life/forms/personal-excused-absence/).
-- For additional support, please reach out to one of the many resources on campus:
-    - Academic support: Email CASA at casa@mines.edu.  
-    - Student Life Office: Excused absence (only if you must be away from class for more than three days).  
-    - Experiencing a mental/emotional challenge? Email Student Outreach and Support (SOS) at care@mines.edu or fill out a SOS Referral.
+**Absences:**
+The first commitment to students at Mines is to their academics. Class attendance is required of all students unless the student has an excused absence granted by the school or the student’s professor. An excused absence awarded by the school or professor comes after a student's request or initiative. To review the Excused Absence Policy and/or to request an excused absence, please visit [https://www.mines.edu/student-life/student-absences/](https://www.mines.edu/student-life/student-absences/). 
 
-### Absence Policy: 
-The [Student Absences webpage](https://www.mines.edu/student-life/student-absences/?CMSPAGE=Student-Absences) outlines Mines’s official policy regarding student absences. Our Mines default position is to trust students unless they give us a reason not to. Please think carefully before attempting to abuse this trust. As long as your number of short-term illnesses is low, we will not require anything beyond an email heads up to mark you as excused, and you can work through what you missed for your own understanding. However, if you end up requesting a large number of excused absences, suspicious absences, or opportunistic absences, then we may follow-up and require you to submit proof that you have worked through the missed material before excusing you (in part, to make sure you are not falling behind and not amidst a crisis). If we determine that you are violating the intent of this policy, then we will treat it as Academic Misconduct or a Code of Conduct matter.
+
+**Sexual Misconduct, Discrimination, and Retaliation:**
+
+Discrimination, Harassment, and Sexual Misconduct of any type, including sexual harassment, sexual assault, dating violence, domestic violence, and stalking, are prohibited under the Policy Prohibiting Sexual Misconduct, Discrimination, and Retaliation. Please see the [Office for Institutional Equity website](https://nam04.safelinks.protection.outlook.com/?url=https://www.mines.edu/institutional-equity-title-ix/&data=05%257C01%257Ccartermoulton@mines.edu%257C0b4f3508bffa4646070608db9ab2afaf%257C997209e009b346239a4d76afa44a675c%257C0%257C0%257C638273864471495084%257CUnknown%257CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0=%257C3000%257C%257C%257C&sdata=8tZxEfQw23o78Np2OwF26ttjwbCc/yFpSLN3zsp7ch4=&reserved=0) for information on Sexual Misconduct and Discrimination.
+
+ As your instructor, it is my responsibility to foster a learning environment that supports diversity of thoughts, perspectives and experiences, honors your identities, and is free of discrimination. Please feel free to speak to me if the class is not living up to these standards. Please note that I am also a mandatory reporter as an instructor at Mines, and if I receive a disclosure of Discrimination, Harassment, and/or Sexual Misconduct, I am required to report it to the Title IX Coordinator.
+
+**Preferred First Name Project:**
+
+Mines recognizes members of the campus community may prefer to use a first name other than their legal name to identify themselves. Many services on campus, like Canvas, utilize and display preferred first names. Additional information on preferred name, including how to update your preferred name, is available at the [Office For Institutional Equity website](https://www.mines.edu/institutional-equity-title-ix/preferred-first-name/).
+
+**Academic Integrity:**
+
+Colorado School of Mines affirms the principle that all individuals associated with the Mines academic community have a responsibility for establishing, maintaining, and fostering an understanding and appreciation for academic integrity. In broad terms, this implies protecting the environment of mutual trust within which scholarly exchange occurs, supporting the ability of the faculty to fairly and effectively evaluate every student’s academic achievements, and giving credence to the university’s educational mission, its scholarly objectives, and the substance of the degrees it awards. We desire an environment free of any and all forms of academic misconduct and expects students to act with integrity at all times. Please read the [full academic misconduct/integrity policy](https://nam04.safelinks.protection.outlook.com/?url=https://www.mines.edu/policy-library/academic-integrity-policy/&data=05%257C01%257Ckcallan@mines.edu%257C46b67f04c769496574f008db89610043%257C997209e009b346239a4d76afa44a675c%257C0%257C0%257C638254821936483524%257CUnknown%257CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0=%257C3000%257C%257C%257C&sdata=SooTXUpiof9XWpaiHTASlzakGTD6QOlsTQ3h+wCcaSM=&reserved=0) for full definitions of academic misconduct. Additionally, please use [resources provided by the Office of Community Standards](https://nam04.safelinks.protection.outlook.com/?url=https://www.mines.edu/student-life/community-standards/academic-integrity/&data=05%257C01%257Ckcallan@mines.edu%257C46b67f04c769496574f008db89610043%257C997209e009b346239a4d76afa44a675c%257C0%257C0%257C638254821936483524%257CUnknown%257CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0=%257C3000%257C%257C%257C&sdata=USar0SFpCt3ixBc3NfMxjc7bu4ZaqvC3TfjXEfDm5bo=&reserved=0) for guidance should you need to know more about the procedures of the policy for academic misconduct/integrity.
+
+
+### 🤖 Generative Artificial Intelligence:
+
+The Office of the Provost encourages the entire University community to explore the uses and impacts of GenAI technologies, whether through critical discussions or creative applications. Based on a review of the most recent [Guidelines for Using Generative Artificial Intelligence at Colorado School of Mines](https://www.mines.edu/academic-affairs/genai), the GenAI policy for this course will be *adapted* from the campus **general permission** as follows:
+
+Generative Artificial Intelligence (genAI) tools such as ChatGPT are important resources in many fields and industries. Because these tools will be used in professional and personal contexts, I believe it is valuable for you to engage critically with these tools and explore their use in generating content that helps your learning.
+
+You may use genAI tools to help generate ideas and brainstorm. However, you should note that the material generated by these tools may be inaccurate, incomplete, biased, or otherwise problematic. I encourage you to consider how genAI complements, supplants, or fails to replace your contributions and abilities. **I discourage you from submitting material for evaluation that has been generated using genAI.** 
+
+If you include content (e.g., ideas, text, code, images) that was generated, in whole or in part, by Generative Artificial Intelligence tools (including, but not limited to, ChatGPT and other large language models) in work submitted for evaluation in this course, [you must document and credit your source](https://libguides.mines.edu/citing/AI) as well as document the steps used to produce the content (i.e., screenshots of your prompts and chat) Failure to properly cite sources, including AI tools for generating content, would be considered Academic Misconduct in violation of [Mines Academic Integrity/Misconduct Policy](https://www.mines.edu/policy-library/academic-integrity-policy/).
+
+As your instructor, I may request that you walk me through your thought process and explain your answer orally at any time I deem necessary.   
 
 ### Diversity and Inclusion:
 At Colorado School of Mines, we understand that a diverse and inclusive learning environment inspires creativity and innovation, which are essential to the engineering process. We also know that in order to address current and emerging national and global challenges, it is important to learn with and from people who have different backgrounds, thoughts, and experiences.
@@ -143,8 +158,3 @@ Additional suggestions for referrals for support, depending on comfort level and
 
 ### Food or Housing Challenges: 
 Any student who faces challenges securing their food or housing and believes this may affect their performance in the course is urged to contact [Student Outreach and Support](https://www.mines.edu/student-life/student-outreach-and-support/) for support. Furthermore, please notify your professor if you are comfortable in doing so. This will enable your professor to provide resources that may be available.
-    
-### Policy on Academic Integrity/Misconduct: 
-The Colorado School of Mines affirms the principle that all individuals associated with the Mines academic community have a responsibility for establishing, maintaining and fostering an understanding and appreciation for academic integrity. In broad terms, this implies protecting the environment of mutual trust within which scholarly exchange occurs, supporting the ability of the faculty to fairly and effectively evaluate every student’s academic achievements, and giving credence to the university’s educational mission, its scholarly objectives and the substance of the degrees it awards. The protection of academic integrity requires there to be clear and consistent standards, as well as confrontation and sanctions when individuals violate those standards. The Colorado School of Mines desires an environment free of any and all forms of academic misconduct and expects students to act with integrity at all times.
-    
-Academic misconduct is the intentional act of fraud, in which an individual seeks to claim credit for the work and efforts of another without authorization, or uses unauthorized materials or fabricated information in any academic exercise. Student Academic Misconduct arises when a student violates the principle of academic integrity. Such behavior erodes mutual trust, distorts the fair evaluation of academic achievements, violates the ethical code of behavior upon which education and scholarship rest, and undermines the credibility of the university. Because of the serious institutional and individual ramifications, student misconduct arising from violations of academic integrity is not tolerated at Mines. If a student is found to have engaged in such misconduct sanctions such as change of a grade, loss of institutional privileges, or academic suspension or dismissal may be imposed. The complete policy can be found in the [Mines Policy Library](https://www.mines.edu/policy-library/?CMSPAGE=POGO-Student).
