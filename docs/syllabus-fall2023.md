@@ -11,9 +11,9 @@
 **Bia's Office Location**: GC 255  
 **Bia's Office Hours**: Tue 11am-noon or [by appointment](https://outlook.office.com/bookwithme/user/12dfdf8a370d4da38883619eb1ea9ff0@mines.edu/meetingtype/vVN_CGb6SES1g6k53wy79A2?anonymous)  
 
-**Teaching Assistant**: name + (pronouns)  
-**GitHub Handle**:  
-**Email**:      
+**Teaching Assistant**: Jordan Pettyjohn (he/him)         
+**GitHub Handle**:  @pettyjohnjn              
+**Email**: [jpettyjohn@mines.edu](mailto:jpettyjohn@mines.edu)                       
 **Office Hours**: TBD   
 **Office Hours Location**: TBD  
 
