@@ -9,7 +9,7 @@
 **Credit Hours**: 3.0  
 **Class Web Site**: https://github.com/GPGN-268  
 **Bia's Office Location**: GC 255  
-**Bia's Office Hours**: Tue 11am-noon or [by appointment](https://outlook.office.com/bookwithme/user/12dfdf8a370d4da38883619eb1ea9ff0@mines.edu/meetingtype/vVN_CGb6SES1g6k53wy79A2?anonymous)  
+**Bia's Office Hours**: Tue 11am-noon or [by appointment](https://outlook.office.com/bookwithme/user/12dfdf8a370d4da38883619eb1ea9ff0@mines.edu/meetingtype/xNyGhDABokeFVrhuy-Oa6A2?anonymous&ep=mLinkFromTile)  
 
 **Teaching Assistant**: Jordan Pettyjohn (he/him)         
 **GitHub Handle**:  @pettyjohnjn              
