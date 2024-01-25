@@ -5,7 +5,7 @@
 For this exercise, we will continue working on the `resume.md` file that you created earlier this week. First, open the terminal and navigate to your resume directory
 
 ```
-$ cd ~/resume
+$ cd ~/work/classes/GPGN268/resume
 $ ls -F
 resume.md
 ```
