@@ -113,11 +113,12 @@ $ git config --list
 You can change your configuration as many times as you want: use the same commands to choose another editor or update your email address. Once Git is configured, we can start using it.
 
 #### Getting started with Git
-First let's navigate to your coursework directory
+First let's navigate to your GPGN268 directory and create a new directory named "resume" there:
 
 ```
-$ mkdir ~/resume
-$ cd ~/resume
+$ cd ~/work/classes/GPGN268
+$ mkdir resume
+$ cd resume
 ``` 
 
 Then we tell Git to make `resume` a **repository** – a place where Git can store versions of our files:
