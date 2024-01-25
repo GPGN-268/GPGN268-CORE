@@ -152,7 +152,7 @@ We can check that everything is set up correctly by asking Git to tell us the st
 $ git status
 ```
 
-Let’s create a file called `README.md` that contains some notes about your repository. We’ll use `vim` to edit the file.
+Let’s create a file called `resume.md` that contains some og your academic and professional information. We’ll use `vim` to edit the file.
 
 ```
 $ vim resume.md
