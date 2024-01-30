@@ -1,5 +1,7 @@
 # Course Material for Gephyscal Data Analysis – GPGN268
 
+- Last update: Jan 30, 2024 
+
 📚 [Lecture notes](lecture-notes/)  
 📝 [Assignments](assignments/)  
 🛠️ [Resources](docs/)  
