@@ -26,7 +26,7 @@ $ ls -RF
 ```
 
 ```
-$ cd assigments/ntro-python/data
+$ cd assignments/intro-python/data
 $ ls -F
 ```
 
