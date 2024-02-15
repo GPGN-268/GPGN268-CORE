@@ -51,24 +51,26 @@ $ git push
 ##### Function prompts 
 1.  Takes two values (feet and inches) and converts to meters
 2. Changes coordinates from polar to Cartesian
-3.  Offsets the mean of a given data  to match a given value
-4. Takes the input data and returns values scaled to lie in the range of 0.0 to 1.0. 
+3.  Offsets the mean of a given array to match a given value
+4. Takes an input array and returns values scaled to lie in the range of 0.0 to 1.0. 
 
 
 
-| Student        | Prompt # | Student            | Prompt # |
-| -------------- | -------- | ------------------ | -------- |
-| Chloe Locke    | 4        | Luke Mazza         | 3        |
-| Nathan Bigelow | 2        | Sam Burton         | 2        |
-| Thomas Ho      | 1        | Maile Corso        | 4        |
-| Aaron Jimenez  | 4        | Paige Dompier      | 1        |
-| Cash Cherry    | 3        | Madeline Pastuszek | 1        |
-| Jalen Perkins  | 2        | Mia Jungman        | 2        |
-| Aiden Hamre    | 1        | Anna Nichols       | 1        |
-| Henry Truelson | 3        | Jackson Krieger    | 2        |
-| Lexi Herr      | 4        | Jim Gabriel        | 2        |
-| Grace Galvin   | 4        | Zach Mathias       | 3        |
-| Duncan Byrne   | 3        | Kieran Yanaway     | 2        |
+| Student          | Prompt # | Student             | Prompt # |
+| ---------------- | -------- | ------------------- | -------- |
+| Colin Thomas     | 1        | Kaitlyn Manalili    | 2        |
+| Katie Gonzalez   | 3        | Seth Reichelt       | 1        |
+| Emily Pearson    | 1        | Jude Lowe           | 2        |
+| Nathan Sedmak    | 3        | Peyton Chandler     | 4        |
+| Renee Fischer    | 3        | Lucas Holt          | 4        |
+| Max Ercolani     | 4        | Jackson Howard      | 1        |
+| Grey Garner      | 4        | Finley Wolff        | 3        |
+| Kailey Dougherty | 2        | Julia Berglind      | 1        |
+| Bianca Riebe     | 3        | Wade Kahl           | 1        | 
+| Olivia Wills     | 2        | Jimena Garciaprieto | 1        |
+| Eliza Ross       | 1        | Anna Melega         | 2        |
+| Callum Hood-Cree | 3        | Jack Logan          | 4        |
+| Jack Dollar      | 3        | TA                  | 1        |
 
 
 
