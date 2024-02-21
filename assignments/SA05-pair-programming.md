@@ -35,19 +35,19 @@ $ cd ~/work/classes/GPGN268/villasboas-pair-programming
 $ jupyter lab
 ```
 
-- Choose "Python File" in the Jupyter Lab launcher. This will create an empty text file that you will use to write your code. Rename the file to `pair-programming.py`. Open a new tab in Jupyter Lab and choose "Console - Python 3". Then, re-arrange your windows to have the Python script and the console side-by-side.
+- Choose "Python File" in the Jupyter Lab launcher. This will create an empty text file that you will use to write your code. Rename the file to `pair_programming.py`. Open a new tab in Jupyter Lab and choose "Console - Python 3". Then, re-arrange your windows to have the Python script and the console side-by-side.
 
 <img width="1118" alt="python-console" src="https://github.com/GPGN-268/GPGN268-CORE/assets/2079352/a5fee41b-bf8a-4309-adee-6e1cace2416a">
 
 <img width="1440" alt="side-by-side" src="https://github.com/GPGN-268/GPGN268-CORE/assets/2079352/3733a0b0-b719-4f51-ab32-6b6e2586a67e">
 
 
-- On your newly created Python file (pair-programming.py), write a function to do what is on the prompt below based on the prompt number that was assigned to you (see the table).
+- On your newly created Python file (pair_programming.py), write a function to do what is on the prompt below based on the prompt number that was assigned to you (see the table).
 - Document your function such that someone else can understand what is going on (but don't write tests for it). You should youse the Python prompt to execute your code and check if it's working.
 - When you're done and ready to get feedback from your partner, save your code, shutdown jupyter lab, add your .py file to git, commit your changes, and push it to GitHub. **Make sure your commit message tells your partner that you're ready for feedback**. For example, if I'm working with Jordan:
 
 ```
-$ git add pair-programming.py
+$ git add pair_programming.py
 $ git commit -m "Add notebook ready for feedback from @Jordan"
 $ git push
 ```
@@ -96,7 +96,7 @@ git clone git@github.com:your-pair-username/your-pair-lastname-pair-programming.
 
 ```
 $ cd ~/work/classes/GPGN268/your-pair-lastname-pair-programming
-$ git add pair-programming.py
+$ git add pair_programming.py
 $ git commit -m "Add feedback and test function"
 $ git push
 ```
