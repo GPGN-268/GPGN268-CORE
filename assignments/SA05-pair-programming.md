@@ -91,7 +91,7 @@ git clone git@github.com:your-pair-username/your-pair-lastname-pair-programming.
 - Navigate to the cloned repo and launch jupyter lab.
 - You will see your partner's function
 - Check the documentation. Write comments with your feedback (what looks good, what could be improved)
-- Using a cell below your partner's work, write a function that tests your partner's function with at least two tests 
+- Write a function below your partner's work that tests their function with at least two tests 
 - Save your work. Shut down jupyter lab. Add and commit your changes. Push it back to your partner on GitHub
 
 ```
