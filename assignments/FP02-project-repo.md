@@ -3,7 +3,7 @@
 
 ### 1. Create a project repository
 - Chose a team leader to create a new private repository for your project _within the GPGN268 organization_ (can transfer to personal accounts later if desired). Go to (https://github.com/orgs/GPGN-268/repositories) and click the big green “New repository” button.
-	- Use the prefix "FPXX-", where "XX" is your group number (check it [here](https://docs.google.com/spreadsheets/d/1ucKjAmJEu4V3bwu5GuARyt5olO09e5xS_pTVfBl5xrc/edit#gid=1722963736)), followed by a descriptive name, for example:
+	- Use the prefix "SP2024-FPXX-", where "XX" is your group number (check it [here](https://docs.google.com/spreadsheets/d/1ucKjAmJEu4V3bwu5GuARyt5olO09e5xS_pTVfBl5xrc/edit#gid=1722963736)), followed by a descriptive name, for example:
 
 		``FP01-mars-seismo``
 
