@@ -1,6 +1,6 @@
 # GPGN268 - Geophysical Data Analysis
 ## Data Story 01 - Well Logging
-#### Due: March 9, 2023 at 9:30 am
+#### Due: March 7, 2024 at 9:30 am
 
 For this data Story you will look at well-logging data from the [International Ocean Discovery Program](https://www.iodp.org/). You already have some data from two expeditions in your `ds01-well-log` folder, but you're welcome to explore other datasets [here](https://mlp.ldeo.columbia.edu/logdb/) if you'd like. We will be primarily working with data from expedition **372A** hole **U1517A**. 
 
