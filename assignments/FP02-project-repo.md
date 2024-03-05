@@ -3,7 +3,7 @@
 
 ### 1. Create a project repository
 - Choose a team leader to create a new private repository for your project _within the GPGN268 organization_ (can transfer to personal accounts later if desired). Go to https://github.com/orgs/GPGN-268/repositories  and click the big green “New repository” button.
-	- Use the prefix "SP2024-FPXX-", where "XX" is your group number (check it [here](https://docs.google.com/spreadsheets/d/17egBlSwSOq9Zpv1Pwp06JOxN2iG3KfPh2gx_fRcjfus/edit#gid=1302978402)), followed by a descriptive name, for example:
+	- Use the prefix "SP2024-FPXX-", where "XX" is your group number (check it [here](https://docs.google.com/spreadsheets/d/17egBlSwSOq9Zpv1Pwp06JOxN2iG3KfPh2gx_fRcjfus/edit#gid=1302978402)), followed by a short descriptive name, for example:
 
 		``SP2024-FP01-mars-seismo``
 
@@ -21,21 +21,21 @@ $ git clone your_group_repo_address
 ```
 
 ### 3. Create a project board
-- The team leader should head to https://github.com/GPGN-268 and click on `projects`. 
+- The team leader should head to https://github.com/GPGN-268/your-final-project-repo and click on `projects`. 
 - Select the green button "New project"
 - Select "Board"
 - Click on the project title, which will take you to the configuration page.
-- Change the project name to the name of your project (doesn't have to match the repo name)
-- Go to "Manage access" and add your team members
+- Change the project name to the name of your project (doesn't have to match the repo name syntax, for example, "Characterization of Marsquakes")
+- Go to "Manage access" and add your team members (if they don't already have access to it)
 
 
 ### Notes about collaborating on GitHub
 
 Collaboration can be a bit more complicated with Jupyter notebooks (vs. standalone Python scripts/libraries), since running cells in the notebook will change execution count and output, even if the code and content appear identical. **Best practice is to avoid situations where two people are independently working on the same notebook**. 
 
-**General recommendation** - split up the project into multiple smaller notebooks, and have each person work on different components. Avoid the long mega-notebook (like most of our labs), and instead structure your repo with a series of notebooks. For example, you could have one notebook that ingests files, reduces/manipulates the data (e.g., reprojection), then writes new files out to disk in “analysis-ready” format. Then a second notebook reads in those data and does some analysis, creates some plots, etc. If you can pass things back and forth between group members like this, you’ll avoid conflicts.
+**General recommendation** - split up the project into multiple smaller notebooks, and have each person work on different components. Avoid the long mega-notebook (like most of our labs), and instead structure your repo with a series of notebooks. For example, you could have one notebook that ingests files, reduces/manipulates the data (e.g., reprojection), then writes new files out to disk in “analysis-ready” format. Then a second notebook reads in those data and does some analysis, creates some plots, etc. If you can pass things back and forth between group members like this, you’ll avoid conflicts (conflicts are the worst!).
 
-**Alternative recommendation**, each team member can create separate notebooks with different filenames that both live in the shared repo. When another team member does some work and commits their notebook to the shared repo, you can can pull changes, open their notebook, select relevant cells, copy and paste into your notebook. One simple option with this model is for each group member to create and maintain a subdirectory within the repo where they will stage and modify their own notebooks for their component of the project.
+**Alternative recommendation**, each team member can create separate notebooks with different filenames that both live in the shared repo. When another team member does some work and commits their notebook to the shared repo, you can pull changes locally to your computer, open their notebook, select relevant cells, copy and paste them into your own notebook. One simple option with this model is for each group member to create and maintain a subdirectory within the repo where they will stage and modify their own notebooks for their component of the project.
 
 
 ### 4. Prepare your README
@@ -72,14 +72,14 @@ I would like to see **at least one commit from each group member** at this pha
 	    -  docs (if applicable) for any additional documentation, static images you want to include in notebooks or markdown files, etc.
 -   Start adding and developing notebooks, code, markdown files, etc.
 - Remember your git workflow:
-	- Always pull before start working on your repository
+	- Always pull before starting working on your repository
 	- Add **only** necessary files 
 	- Commit and push often
-	- There will be conflicts. Don't panic! Come talk to me.
+	- There will be git conflicts. Don't panic! Come talk to me.
 
-## 📅 Final project Milestone (Due on 3/9)
+## 📅 Final project Milestone (Due on 3/14)
 
-The goal of the Milestone is to follow your progress on your final project and identify challenges that your group might be facing. By March 9, I would like to see:
+The goal of the Milestone is to follow your progress on your final project and identify challenges that your group might be facing. By March 14, I would like to see:
 
 1. An expanded version of the README file describing in detail:
 	-   Problem statement, question(s) and/or objective(s)
