@@ -24,7 +24,7 @@ Whatever you choose, you should _clearly define a hypothesis or scientific ques
 
 ####  General Requirements
 
-- The results of your analysis will be figures. **Beautiful** figures which clearly provide answers to your question / hypothesis. Your main notebook should contain at least 4 and no more than 8 figures. All figures must have titles, clearly labeled axes, [informative colormaps](https://jakevdp.github.io/blog/2014/10/16/how-bad-is-your-colormap/) / colorbars, multiple panels, and legends, when appropriate. 
+- The results of your analysis will be figures. **Beautiful** figures that clearly provide answers to your question/hypothesis. Your main notebook should contain at least 4 and no more than 8 figures. All figures must have titles, clearly labeled axes, [informative colormaps](https://jakevdp.github.io/blog/2014/10/16/how-bad-is-your-colormap/) / colorbars, multiple panels, and legends, when appropriate. 
 - All your code must be well-documented with comments and functions when appropriate.  I expect you to use expressive variable names and proper formatting. 
 
 #### Specific requirements
@@ -47,9 +47,9 @@ A final project repository with a remote hosted on GitHub. The repository should
 3. A directory tree for your project that follows [best practices in scientific computing](https://github.com/GPGN-268/GPGN268-CORE/blob/main/lecture-notes/L03-files-directories.md)
 4. All code necessary to reproduce your analysis (Bash scripts, python scripts, auxiliary Jupyter notebooks) + a main Jupyter notebook containing your results and figures.
 
-### 📽️ In-Class Presentations
+### 📽️ Record your presentation
 
- Each group will prepare and deliver a ~10-minute presentation/demo in Week 15.
+ Each group will prepare and record a ~10-minute presentation/demo in Week 15. You can use the software of your choice to do this, but I recommend using Zoom and following [these instructions](https://library.gwu.edu/sites/default/files/2023-06/How%20to%20Record%20a%20Video%20Presentation%20using%20Zoom.pdf). All group members should have their video on during the recording (this content will not be shared outside of the class unless you wish to do so).
 
 -  All group members are expected to contribute to the presentation.
 -   Format is flexible: can be slides (not necessary), scrolling through notebook(s), scrolling through markdown files
@@ -65,12 +65,12 @@ A final project repository with a remote hosted on GitHub. The repository should
 	- Summarize your main findings and their significance.
  	- Suggest areas for future research that could build on your findings.
 	- Acknowledgments: Thank those who have supported your group project if applicable (any peers, friends, mentors, other faculty, etc.)
-	- Keep your presentation under 10 min so there is planty time for questions from the audience.
 	- **Have fun!** This is your opportunity to showcase all the hard work you have put into your research project.
 
--   There will be time for Q&A/discussion and feedback after each presentation    
--   I expect active engagement from the entire class. Part of your final project grade is based on participation asking questions and providing feedback to the other groups.
--   A couple of days before our project presentation session, please enable read access on your repo, so others in the class can see your great work, and learn from what you’ve done!
+### ⬆️ Upload your recording to Canvas by April 25th, 11:59 PM
+
+-   After you have your .mp4 file with your presentation recording, head to the [Canvas discussion board](https://elearning.mines.edu/courses/63978/discussion_topics) and search for the topic corresponding to your group. Then, upload your video to the discussion as a file attachment (note that only the group leader needs to do this)   
+-   After you upload your video presentation, please enable read access on your final project repo on GitHub, so others in the class can see your great work, and learn from what you’ve done!
 	-   Open the “Settings” tab near the top of your repo  
 	-   Select “Manage Access” on the left side
 	-   Click the green “Invite teams or people”
@@ -78,13 +78,19 @@ A final project repository with a remote hosted on GitHub. The repository should
 	-   Use the default Read access and click the green button to proceed
 	-   I recognize that this may feel a little uncomfortable, especially if you didn’t have as much time as expected or don’t feel your repo is “finished.” It’s OK! We’re all in the same boat and projects like this are never truly finished. See below for some additional thoughts, and please reach out if you would like to discuss.
 
-### 📆 Final Project Submission
+### 🤙🏼 Join the conversation by April 29, 11:59 PM
 
--   Finalize your repository with notebooks, scripts and documentation that incorporates the feedback you received from me, the TA, and your peers.        
+-   I expect active engagement from the entire class. Part of your final project grade is based on participation asking questions and providing feedback to the other groups.
+-   Each student should watch everyone's presentation and post questions (or provide constructive feedback) on the discussion board of at least three different projects. You will be randomly assigned to be the peer reviewer of 3 other groups. 
+-   Group members should take turns answering the question and addressing the comments from their peers
+
+### 📆 Final Project Submission (Due on Wednesday, May 3rd 11:59 PM)
+
+-   Finalize your repository with notebooks, scripts, and documentation that incorporates the feedback you received from me, the TA, and your peers.        
 -   Clean up your repository and make sure only the necessary material is there. You may create a directory called `dev` and move old or unused files there.
 -   Update the section "How to use this repository" in the README with information about the notebooks used during processing and provide a clear indication of which notebooks contain the final results.
 	-   The goal is to help someone who is unfamiliar with your project quickly find the good stuff!
--   Submit the GitHub URL for your final project repo on Canvas before midnight on Tuesday, May 2nd. 
+-   Submit the GitHub URL for your final project repo on Canvas before midnight on Wednesday, May 1st. 
 
 ### 🚀 Optional: Share your amazing work!
 
@@ -94,5 +100,7 @@ To make the repo public and share it with the world:
 -   From the “Settings” tab, scroll all the way down to the `Danger Zone` and click “Change Visibility”
 -   Select “Make Public” and type the repo name in the prompt
 -   Proudly share the repo URL with others!
+
+🛜 If **everyone** in your group agrees and would like to, we could have your final presentation uploaded to the GP YouTube channel (this could be used as a way to showcase your presentation skills to prospective employers)
 
 
