@@ -84,13 +84,13 @@ A final project repository with a remote hosted on GitHub. The repository should
 -   Each student should watch everyone's presentation and post questions (or provide constructive feedback) on the discussion board of at least three different projects. You will be randomly assigned to be the peer reviewer of 3 other groups. 
 -   Group members should take turns answering the question and addressing the comments from their peers
 
-### 📆 Final Project Submission (Due on Wednesday, May 3rd 11:59 PM)
+### 📆 Final Project Submission (Due on Friday, May 3rd 11:59 PM)
 
 -   Finalize your repository with notebooks, scripts, and documentation that incorporates the feedback you received from me, the TA, and your peers.        
 -   Clean up your repository and make sure only the necessary material is there. You may create a directory called `dev` and move old or unused files there.
 -   Update the section "How to use this repository" in the README with information about the notebooks used during processing and provide a clear indication of which notebooks contain the final results.
 	-   The goal is to help someone who is unfamiliar with your project quickly find the good stuff!
--   Submit the GitHub URL for your final project repo on Canvas before midnight on Wednesday, May 1st. 
+-   Submit the GitHub URL for your final project repo on Canvas before midnight on Friday, May 3rd. 
 
 ### 🚀 Optional: Share your amazing work!
 
